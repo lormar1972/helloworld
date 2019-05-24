@@ -9,5 +9,10 @@ namespace WebApi1.Controllers
 {
     public class terzoController : ApiController
     {
+        public void metodo ()
+        {
+        }
     }
+
+
 }
