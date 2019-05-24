@@ -12,5 +12,10 @@ namespace WebApi1.Controllers
         public void metododiverso()
         {
         }
+
+        public void secondo_metodo()
+        {
+        }
+
     }
 }
