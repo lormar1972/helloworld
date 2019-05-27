@@ -9,5 +9,6 @@ namespace WebApi1.Controllers
 {
     public class quartoController : ApiController
     {
+        String s = String.Empty;            
     }
 }
